@@ -1,0 +1,124 @@
+body{
+
+    background-color: #16365d;
+    font-family: Arial;
+    
+}
+
+.right{
+
+    text-align: right;
+    color: white;
+
+}
+
+.li{
+
+    color: red;
+    
+
+}
+
+
+
+.li1{
+
+color: blueviolet;
+
+
+}
+
+.p1{
+
+text-decoration: underline;
+color: red;
+
+}
+
+p{
+
+    color: white;
+
+}
+
+.class1{
+
+    color: red;
+    text-align: center;
+
+
+}
+
+.class2{
+
+    color: yellow;
+    text-decoration: underline;
+
+}
+
+.class3{
+
+    color: blue;
+    
+}
+
+.class4{
+
+
+    color:  rgb(73, 255, 73)
+}
+
+.class5{
+
+    color: white;
+    background-color: black;
+    width: 50%;
+    border-top: 1px solid red;
+    border-left: 1px solid red;
+    padding-bottom: 20px;
+
+}
+
+.class6{
+
+    color: blue;
+}
+
+.class7{
+
+    color: red;
+
+}
+
+.class8{
+
+    color: black;
+    background-color: rgb(73, 255, 73);
+}
+
+.class9{
+
+    color:  rgb(73, 255, 73);
+}
+
+.class10{
+
+    background-color: black;
+    border-left: 1px solid red;
+    border-right: 1px solid yellow;
+    padding: 20px;
+}
+
+.class11{
+
+    color: yellow;
+    width: 300px;
+    border-bottom: 1px solid yellow;
+    text-align: center;
+
+}
+ 
+.class12{
+
+    background-color: red;
+}
